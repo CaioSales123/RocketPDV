@@ -21,5 +21,10 @@ namespace RocketPDV.View.panelViews
             this.MaximizeBox = false;
             this.ControlBox = ControlBox = false;
         }
+
+        private void pdvView_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
